@@ -52,3 +52,55 @@
 
 # Property & Casualty Insurance - Casualty Insurance - The Personal Auto Policy (PAP)
 
+### Question 1
+**Eliza's car is insured with a personal auto policy that includes liability, collision, and other-than-collision coverages. She buys a pickup truck. What coverage, if any, will the PAP provide for the truck?**
+
+- [ ] a. automatic collision coverage if she reports the newly acquired vehicle to the insurer within 30 days
+- [ ] b. automatic liability coverage for the remainder of the policy period
+- [x] **c. automatic liability coverage if she reports the newly acquired vehicle to the insurer within 14 days.**
+- [ ] d. none because the newly acquired vehicle is a truck
+
+> **Explanation:** Because the truck is an additional vehicle, it has automatic liability coverage immediately. Eliza must notify the insurer within 14 days to add the truck to her policy.
+
+---
+
+### Question 2
+**Which is least likely to be considered a "covered auto" in a personal auto policy (PAP)?**
+
+- [x] **a. commercial tractor-trailer combination**
+- [ ] b. newly acquired passenger auto
+- [ ] c. owned private trailer
+- [ ] d. temporary substitute passenger auto
+
+> **Explanation:** The PAP provides only limited coverage for trucks with a GVW of 10,000 pounds or more. These types of vehicles should be insured on a commercial automobile policy if they are principally used to carry or deliver goods as part of a commercial operation.
+
+---
+
+### Question 3
+**Which is NOT one of the three major parts of a personal auto policy (PAP)?**
+
+- [x] **a. applicable endorsements**
+- [ ] b. declarations page
+- [ ] c. definitions
+- [ ] d. personal auto coverage form
+
+> **Explanation:** Although the PAP definitions are important to the policy, they are not one of its three major parts.
+
+---
+
+### Question 4
+**Riley's coupe is insured with a personal auto policy that includes liability, uninsured motorists, and other-than-collision coverages. He buys a new sedan and wants collision coverage on it. Which statement is true about this coverage?**
+
+- [x] **a. He must notify the insurer about the newly acquired sedan within four days.**
+- [ ] b. The PAP automatically covers the sedan if he reports it to the insurer after owning it for two or three weeks.
+- [ ] c. The PAP does not cover the automatic coverage for the Honda.
+- [ ] d. The sedan automatically has collision coverage for the rest of the policy period.
+
+> **Explanation:** Because Riley's coupe does not have collision coverage, he must report the newly acquired sedan to his insurer within four days of its acquisition to get collision coverage for it.
+
+
+================
+
+# Property & Casualty Insurance - Casualty Insurance - Liability Coverages of the Personal Auto Policy
+
+
