@@ -153,8 +153,6 @@
 
 # Property & Casualty Insurance - Casualty Insurance - Property Coverages of the Personal Auto Policy
 
-# Property & Casualty Insurance - Practice Quiz & Answer Key (Part 37)
-
 ### Question 1
 **Kendrick's car is insured with a personal auto policy (PAP). How can he have the policy also cover his new motorcycle?**
 
@@ -203,3 +201,105 @@
 
 ==============
 
+
+# Property & Casualty Insurance - Casualty Insurance - Commercial Auto Insurance
+
+### Question 1
+**Which part of the business auto policy (BAP) contains information the applicant provided to tailor the coverage for the applicant's needs?**
+
+- [ ] a. business auto coverage form
+- [x] **b. business auto declarations**
+- [ ] c. common policy conditions form
+- [ ] d. nuclear energy liability exclusion endorsement
+
+> **Explanation:** Most of the information in the business auto declarations reflects information the applicant provided in the insurance application. The BAP uses this information to tailor coverage to meet the particular needs of the insured.
+
+---
+
+### Question 2
+**Lawrence's business does not own any private passenger vehicles, so he wants his business auto policy (BAP) to provide liability coverage and specified causes of loss coverage only for the nonprivate passenger vehicles that the firm owns. The declarations of his BAP should have:**
+
+- [ ] a. symbol 1 for liability coverage and symbol 3 for specified causes of loss coverage
+- [ ] b. symbol 2 for liability coverage and symbol 3 for specified causes of loss coverage
+- [x] **c. symbol 4 for liability coverage and specified causes of loss coverage**
+- [ ] d. symbols 2, 8, and 9 for liability coverage and symbol 4 for specified causes of loss coverage
+
+> **Explanation:** Symbol 4 designates coverage on owned autos other than private passenger autos.
+
+---
+
+### Question 3
+**Which is NOT a component of a typical, stand-alone business auto policy?**
+
+- [ ] a. Business auto declarations
+- [ ] b. Common policy conditions form
+- [x] **c. Garage coverage form**
+- [ ] d. Nuclear energy liability exclusion endorsement
+
+> **Explanation:** A typical stand-alone BAP includes business auto declarations, the business auto coverage form, the common policy conditions form, and the nuclear energy liability exclusion endorsement. The garage coverage form is designed for auto dealers and provides auto liability and general liability coverage. The auto dealers form, introduced in 2013, is intended to replace the garage coverage form.
+
+---
+
+### Question 4
+**The business auto policy (BAP) may include all of the following EXCEPT:**
+
+- [ ] a. business auto coverage form
+- [ ] b. business auto declarations
+- [ ] c. common policy conditions form
+- [x] **d. personal auto insurance**
+
+> **Explanation:** Though the coverages of the BAP can be modified with endorsements, they are not combined with personal auto insurance. The BAP can be part of a commercial package policy that includes other coverage forms.
+
+================
+
+# Property & Casualty Insurance - Casualty Insurance - Commercial Auto Insurance
+
+# Property & Casualty Insurance - Practice Quiz & Answer Key (Part 39)
+
+### Question 1
+**Consuela's business auto policy (BAP) has comprehensive and collision coverage on all owned autos. Consuela and several employees take some of these autos on a hunting expedition. Several are damaged. Which occurrence will the BAP cover?**
+
+- [ ] a. blown tire
+- [ ] b. depreciation
+- [ ] c. electrical system failure
+- [x] **d. overturn**
+
+> **Explanation:** Diminution, breakdown, and tire blowouts are excluded, but collision coverage applies to a rollover even if it is not on a roadway.
+
+---
+
+### Question 2
+**Which is NOT a bodily injury for purposes of coverage by the business auto policy (BAP)?**
+
+- [ ] a. death
+- [ ] b. disease
+- [ ] c. illness
+- [x] **d. mental trauma**
+
+> **Explanation:** For liability coverage to apply under the BAP, the insured's legal liability for damages must arise from bodily injury caused by an accident. The policy defines bodily injury as illness, sickness, or disease. Bodily injury also includes death resulting from these. The injury must involve actual injury to or sickness of the body. Mental trauma is not within the meaning of bodily injury.
+
+---
+
+### Question 3
+**During a delivery, a radiator hose on Roger's van bursts. Antifreeze and water stain the customer's concrete driveway, and the customer wants Roger to pay to have the driveway resurfaced. Roger's business auto policy (BAP) will:**
+
+- [ ] a. cover damage from the water but not from the antifreeze
+- [x] **b. cover this damage**
+- [ ] c. exclude coverage for this discharge of a pollutant
+- [ ] d. not cover this accidental discharge
+
+> **Explanation:** The BAP's pollution exclusion does not apply to liability for the discharge or escape of fluids necessary for the operation of the covered auto.
+
+---
+
+### Question 4
+**In which case is the driver of the vehicle not an insured person under a company's business auto policy?**
+
+- [x] **a. A former employee steals a company truck to transport goods.**
+- [ ] b. An employee uses a company van for a personal errand.
+- [ ] c. An employee's spouse borrows a company car for recreation.
+- [ ] d. An executive uses a company car for a business trip.
+
+> **Explanation:** The BAP insures the named insured, a permissive user, and anyone who is responsible for the conduct of the named insured or the permissive user. A thief, not being an employee, is neither a named insured nor a permissive user for whom the named insured is responsible.
+
+==============
