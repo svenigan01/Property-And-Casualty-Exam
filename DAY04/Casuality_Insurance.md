@@ -252,9 +252,7 @@
 
 ================
 
-# Property & Casualty Insurance - Casualty Insurance - Commercial Auto Insurance
-
-# Property & Casualty Insurance - Practice Quiz & Answer Key (Part 39)
+# Property & Casualty Insurance - Casualty Insurance - Liability Coverages of the Business Auto Policy
 
 ### Question 1
 **Consuela's business auto policy (BAP) has comprehensive and collision coverage on all owned autos. Consuela and several employees take some of these autos on a hunting expedition. Several are damaged. Which occurrence will the BAP cover?**
@@ -303,3 +301,52 @@
 > **Explanation:** The BAP insures the named insured, a permissive user, and anyone who is responsible for the conduct of the named insured or the permissive user. A thief, not being an employee, is neither a named insured nor a permissive user for whom the named insured is responsible.
 
 ==============
+
+
+# Property & Casualty Insurance - Casualty Insurance - Other Business Auto Policy Forms
+
+### Question 1
+**Barbara's car is in the dealer's garage when lightning strikes the building and ignites a fire that destroys it and its content. The dealer's garage policy includes garagekeepers coverage with the primary direct coverage option. How does the policy address the loss?**
+
+- [ ] a. Coverage does not apply because the dealer is not responsible for a lightning strike.
+- [ ] b. It will pay any loss for which the dealer is legally liable to its customers.
+- [ ] c. It will pay for any of Barbara's loss that her personal auto insurance does not cover.
+- [x] **d. It will pay for the loss to Barbara's car and other customers' cars, subject to the policy's limit and deductible.**
+
+> **Explanation:** With the primary direct coverage option selected for garagekeepers coverage, the insurer pays up to the limit of its insurance, less the deductible, without regard to the insured's legal liability.
+
+---
+
+### Question 2
+**In a trailer interchange agreement, a motor carrier agrees to:**
+
+- [ ] a. avoid using another carrier's trailers
+- [ ] b. avoid using another carrier's trucks
+- [x] **c. exchange trailers with another carrier**
+- [ ] d. exchange trucks with another carrier
+
+> **Explanation:** A trailer interchange agreement is a contract under which a motor carrier agrees to exchange trailers with another carrier and to indemnify the other carrier for any losses.
+
+---
+
+### Question 3
+**In which case would a garage coverage form NOT protect the named insured?**
+
+- [x] **a. A customer buys a car that rapidly depreciates in value.**
+- [ ] b. A customer is injured by a pest control service spray used at an auto dealership.
+- [ ] c. A customer is injured in a crash after a garage replaces his brake shoes.
+- [ ] d. A customer slips and falls on a wet floor at an auto dealership.
+
+> **Explanation:** For garage coverage to apply to a loss, the injury or damage must arise from garage operations. These operations include the ownership, maintenance, or use of the premises for a garage business and the roads or other means of access to the premises.
+
+---
+
+### Question 4
+**The Motor Carrier Act of 1980 requires some motor carriers to:**
+
+- [x] **a. carry liability insurance with minimum coverage limits that depend on their cargo**
+- [ ] b. comply with state financial responsibility laws
+- [ ] c. pay environmental restitution for their accidents
+- [ ] d. submit their vehicles to regular federal inspection
+
+> **Explanation:** Motor carriers subject to the Motor Carrier Act of 1980 must have insurance coverage of $750,000 to $5 million, depending on the cargo they transport.
