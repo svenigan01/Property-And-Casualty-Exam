@@ -46,7 +46,7 @@
 
 ====================
 
-# Insurance Concepts Quiz & Answer Key - Part 2
+# CA Property and Casualty Agent Exam - California General Insurance Laws - The Insurance Marketplace
 
 ## Questions and Answers
 
@@ -95,7 +95,7 @@
 
 ===================
 
-# Insurance Concepts Quiz & Answer Key - Part 3
+# CA Property and Casualty Agent Exam - California General Insurance Laws - State Insurance Regulation and Contract Law
 
 ## Questions and Answers
 
@@ -140,3 +140,78 @@
 * **d. transact insurance business in California**
 
 > **Explanation:** An admitted insurer is entitled and certified to transact insurance business in California. Unadmitted insurers can generally only transact business through licensed surplus lines brokers under specific circumstances.
+
+===============
+
+# CA Property and Casualty Agent Exam - California General Insurance Laws - California Privacy Laws
+
+### 1. Rights Under the California Consumer Privacy Act (CCPA)
+
+**Question:**
+The California Consumer Privacy Act of 2018 (CCPA) gives California residents the right to do all of the following **EXCEPT**:
+
+* a. non-discrimination for exercising their CCPA rights
+* b. opt-out of the sale of personal information
+* **c. request that a business delete all personal information ever collected from the consumer**
+* d. request that the business disclose what personal information they have collected, used, or shared
+
+**Correct Answer:** **c**
+
+**Explanation:**
+Consumers have the right to request that businesses delete their personal information, but this right is **not absolute**. Numerous statutory exceptions allow businesses to retain customer data—such as completing transactions, fulfilling contract obligations, detecting security incidents, or complying with legal requirements. Consumers *do* have absolute rights to opt-out of data sales, request disclosures of collected data, and exercise these rights without facing discrimination.
+
+---
+
+### 2. Definition of Personal Information Under CCPA
+
+**Question:**
+Which of the following would **NOT** be considered personal information under the California Consumer Privacy Act (CCPA)?
+
+* a. fingerprints
+* b. internet browsing history
+* **c. real estate license number**
+* d. receipts of products purchased
+
+**Correct Answer:** **c**
+
+**Explanation:**
+Fingerprints (biometric data), records of products purchased (commercial information), and internet browsing history (internet activity) are explicitly categorized as personal information under the CCPA. Publicly available government records and professional license information (such as a real estate license number) are generally excluded from the definition of personal information.
+
+---
+
+### 3. Provisions of California's "Shine the Light" Law
+
+**Question:**
+All of the following are true of California's "Shine the Light" Law **EXCEPT**:
+
+* a. Businesses with less than 20 employees are exempt
+* b. The for-profit business does not have to be located in California but must have a customer who resides in California.
+* **c. The for-profit business must be located in California and have customers who reside in California.**
+* d. The law requires businesses to establish a designated contact point.
+
+**Correct Answer:** **c**
+
+**Explanation:**
+To be subject to the "Shine the Light" law, a business **does not** need to be physically located in California. It applies to any business that has an established business relationship with a California resident and shares personal information for direct marketing purposes. The law exempts businesses with fewer than 20 employees and requires covered entities to maintain a designated contact point for consumer inquiries.
+
+---
+
+### 4. Applicability of California's "Shine the Light" Law
+
+**Question:**
+California's "Shine the Light" Law would apply to which of the following businesses?
+
+* **a. an advertising firm with 55 employees**
+* b. California non-profit organization
+* c. credit reporting bureau
+* d. credit union
+
+**Correct Answer:** **a**
+
+**Explanation:**
+The "Shine the Light" law applies to for-profit businesses that have 20 or more employees. Statutory exemptions apply to non-profit organizations, credit reporting bureaus, financial institutions subject to specific federal regulations (such as credit unions), political groups, and providers of public real estate records. An advertising firm with 55 employees meets the criteria and is not exempt.
+
+===============
+
+
+
