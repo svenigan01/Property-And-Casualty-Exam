@@ -1,8 +1,6 @@
 
 # CA Property and Casualty Agent Exam - Property and Casualty Insurance Basics - Property Insurance Basics
 
-# Property & Casualty Insurance: Loss Valuation & Coverage Concepts
-
 ### 1. Definition of "Actual Cash Value"
 
 **Question:**
