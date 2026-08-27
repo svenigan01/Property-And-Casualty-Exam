@@ -494,3 +494,61 @@ Because he was watching his GPS instead of watching his driving, Gerry's car rea
 **Explanation:**
 Gerry's total accident liability equals $75,000 ($15,000 property damage + $60,000 bodily injury for two occupants). Because Gerry chose a **Combined Single Limit (CSL)** of $50,000, the insurer's total payout for all bodily injury and property damage combined is capped at **$50,000**. Gerry remains personally responsible for the remaining $25,000.
 
+
+=============
+
+# CA Property and Casualty Agent Exam - Property and Casualty Insurance Basics - Insurance Regulation
+
+# Practice Questions & Detailed Explanations
+
+---
+
+### Question 1
+**What is the purpose of the notice to consumers required by the Fair Credit Reporting Act?**
+
+- [ ] **a.** To advise that consumer information in an application may be used as evidence in court
+- [x] **b. To advise that the insurer may order a credit report on the applicant that includes personal information**
+- [ ] **c.** To confirm that an insurer's privacy policy is legal
+- [ ] **d.** To give the opportunity to opt out of a credit investigation
+
+> **Explanation / Correct Answer:** **b**  
+> The written notice required under the Fair Credit Reporting Act (FCRA) advises applicants of their rights with regard to a credit report that the insurer may use when underwriting an insurance application.
+
+---
+
+### Question 2
+**Which federal law prevents certain convicted felons from engaging in the insurance business unless they obtain a waiver from the Department of Insurance?**
+
+- [ ] **a.** Federal Trade Commission Act (FTCA)
+- [ ] **b.** McCarran-Ferguson Act
+- [ ] **c.** Terrorism Risk Insurance Act (TRIA)
+- [x] **d. Violent Crime Control and Law Enforcement Act**
+
+> **Explanation / Correct Answer:** **d**  
+> The Violent Crime Control and Law Enforcement Act makes it a criminal offense for a person convicted of a felony involving breach of trust or dishonesty to participate in the business of insurance without first obtaining a Fraud and False Statements 1033 waiver from a state insurance regulatory official.
+
+---
+
+### Question 3
+**Insurance is primarily regulated at which level of government?**
+
+- [ ] **a.** Federal
+- [ ] **b.** Municipal
+- [ ] **c.** Regional
+- [x] **d. State**
+
+> **Explanation / Correct Answer:** **d**  
+> Insurance is regulated primarily at the state level, though federal regulations also govern the insurance industry, particularly with respect to privacy protection and anti-terrorism protection.
+
+---
+
+### Question 4
+**The Terrorism Risk Insurance Act (TRIA) requires insurance companies to make coverage for certified acts of terrorism available for all the following lines of insurance EXCEPT:**
+
+- [ ] **a.** Commercial liability
+- [ ] **b.** Commercial property
+- [x] **c. Homeowners**
+- [ ] **d.** Workers compensation
+
+> **Explanation / Correct Answer:** **c**  
+> TRIA requires that property and casualty insurers selling insurance in the United States make terrorism coverage available under commercial property, commercial liability, and workers compensation insurance policies. Personal lines, such as homeowners insurance, are excluded.
